@@ -36,3 +36,40 @@ To get a copy of the front-end code and run it locally for development or testin
 3. Install the required dependencies:
     $ npm install
 
+5. Access the website locally at `http://localhost:3000` in your web browser.
+
+## Usage
+
+Here are some basic instructions on how to use the front-end component of the Match Reservation Website:
+
+1. **Browse Matches**: Navigate through the list of available matches and select the one you want to book.
+
+2. **Reserve a Spot**: Click on the match you're interested in, review the match details, and reserve a spot by following the on-screen instructions.
+
+3. **User Registration**: If required, register or log in to your account to complete the reservation process.
+
+4. **Payment**: Make the necessary payment to confirm your match reservation.
+
+5. **Confirmation**: Receive a booking confirmation and details via email or on the website.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- [Additional technologies or libraries used]
+
+## Contributing
+
+We welcome contributions to enhance the front-end of the Match Reservation Website. If you'd like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
+3. Make your changes and commit them: `git commit -m "Description of changes"`.
+4. Push your changes to your fork: `git push origin feature-name`.
+5. Open a pull request to the main repository's `develop` branch.
+
+## License
+
+This project is licensed under the [ BSL-1.0 license] License - see the [LICENSE.md](LICENSE.md) file for details.
