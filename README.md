@@ -58,7 +58,6 @@ Here are some basic instructions on how to use the front-end component of the Ma
 - CSS
 - JavaScript
 - React.js
-- [Additional technologies or libraries used]
 
 ## Contributing
 
