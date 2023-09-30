@@ -42,15 +42,7 @@ To get a copy of the front-end code and run it locally for development or testin
 
 Here are some basic instructions on how to use the front-end component of the Match Reservation Website:
 
-1. **Browse Matches**: Navigate through the list of available matches and select the one you want to book.
-
-2. **Reserve a Spot**: Click on the match you're interested in, review the match details, and reserve a spot by following the on-screen instructions.
-
-3. **User Registration**: If required, register or log in to your account to complete the reservation process.
-
-4. **Payment**: Make the necessary payment to confirm your match reservation.
-
-5. **Confirmation**: Receive a booking confirmation and details via email or on the website.
+ **User Registration**: If required, register or log in to your account to complete the reservation process.
 
 ## Technologies Used
 
@@ -58,6 +50,7 @@ Here are some basic instructions on how to use the front-end component of the Ma
 - CSS
 - JavaScript
 - React.js
+- bootstrap
 
 ## Contributing
 
